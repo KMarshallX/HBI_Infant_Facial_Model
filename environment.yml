@@ -1,4 +1,4 @@
-name: deep3d_pytorch
+name: hbi_infant
 channels:
   - pytorch
   - conda-forge
