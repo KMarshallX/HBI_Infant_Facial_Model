@@ -22,3 +22,4 @@ dependencies:
     - kornia==0.5.5
     - dominate==2.6.0
     - trimesh==3.9.20
+    - mtcnn==0.1.1
