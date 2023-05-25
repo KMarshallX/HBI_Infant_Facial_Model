@@ -57,3 +57,6 @@ Run the script:
 python test.py --name=<model_name> --epoch=20 --img_folder=<folder_to_test_images>
 ```
 The results will be saved into ./checkpoints/<model_name>/results/<folder_to_test_images>
+
+## **Reference**
+This code is based on [MTCNN](https://github.com/ipazc/mtcnn) and [Deep3DReconstruction](https://github.com/sicxu/Deep3DFaceRecon_pytorch)
